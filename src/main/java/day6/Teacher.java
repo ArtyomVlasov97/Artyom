@@ -7,7 +7,7 @@ public class Teacher {
         this.name = name;
         this.object = object;
     }
-     void evaluate (Student name){
+     public void evaluate (Student name){
         name.equals(name);
         int point = (int)(Math.random()*4) +2;
         String vZachet = "";
