@@ -21,7 +21,7 @@ public class Teacher {
             case 4:
                 vZachet = "хорошо";
                 break;
-            case 5:
+            default:
                 vZachet = "отлично";
                 break;
         }
