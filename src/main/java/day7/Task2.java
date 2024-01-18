@@ -15,6 +15,7 @@ public class Task2 {
         for(int i = 0; i<120; i++) {
             one.run();
         }
-        System.out.println(one.getStamina());
+        Player.info();
+        Player.info();
     }
 }
